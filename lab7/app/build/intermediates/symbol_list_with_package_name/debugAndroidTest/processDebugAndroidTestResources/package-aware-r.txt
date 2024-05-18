@@ -1,0 +1,3 @@
+com.android.mad.assignments.test
+style WhiteBackgroundDialogTheme
+style WhiteBackgroundTheme

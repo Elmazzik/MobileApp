@@ -1,0 +1,6 @@
+com.android.mad.assignments.test.app-core-1.5.0-0 C:\Users\temir\.gradle\caches\transforms-3\266682c720565d76e2a7ffaf1fd48cd4\transformed\core-1.5.0\res
+com.android.mad.assignments.test.app-annotation-experimental-1.3.0-1 C:\Users\temir\.gradle\caches\transforms-3\9efba1a82d78077efbb8d70810e58be4\transformed\annotation-experimental-1.3.0\res
+com.android.mad.assignments.test.app-androidTest-2 C:\Users\temir\AndroidStudioProjects\AndroidAssignments\app\build\generated\res\resValues\androidTest\debug
+com.android.mad.assignments.test.app-mergeDebugAndroidTestResources-3 C:\Users\temir\AndroidStudioProjects\AndroidAssignments\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.android.mad.assignments.test.app-mergeDebugAndroidTestResources-4 C:\Users\temir\AndroidStudioProjects\AndroidAssignments\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.android.mad.assignments.test.app-debugAndroidTest-5 C:\Users\temir\AndroidStudioProjects\AndroidAssignments\app\build\intermediates\merged_res\debugAndroidTest\mergeDebugAndroidTestResources

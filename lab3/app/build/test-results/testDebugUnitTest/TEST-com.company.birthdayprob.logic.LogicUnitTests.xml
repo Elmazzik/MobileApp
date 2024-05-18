@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.company.birthdayprob.logic.LogicUnitTests" tests="2" skipped="0" failures="0" errors="0" timestamp="2024-03-11T09:05:42" hostname="ELDARBOOK" time="17.247">
+  <properties/>
+  <testcase name="testResultRange" classname="com.company.birthdayprob.logic.LogicUnitTests" time="17.189"/>
+  <testcase name="testCalculateThreshold" classname="com.company.birthdayprob.logic.LogicUnitTests" time="0.058"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
